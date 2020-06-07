@@ -2,6 +2,8 @@
 
 Aplicação criada com objetivo de cadastrar e localizar pontos de coleta de resíduos durante a Next Level Week utilizando Node.js no Back-end, React no Front-end e React Native no Mobile.
 
+![screen-recording](https://user-images.githubusercontent.com/17283891/83982177-d65e0e00-a8fa-11ea-82e0-9c3b058682ec.gif)
+
 ## Baixando dependências
 
 Após o clone ou download do repositório é necessário baixar as dependências do projeto executando npm install na raiz de cada projeto
